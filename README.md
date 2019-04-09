@@ -8,6 +8,6 @@ Se ha desarrollado utilizando el lenguaje de programación C++
 
 ## Autores ✒️
 
-Marcos Vázquez Fernández
-Cristian Pérez Gómez
-Ismael Rodríguez Rodríguez
+Marcos Vázquez Fernández.
+Cristian Pérez Gómez.
+Ismael Rodríguez Rodríguez.
