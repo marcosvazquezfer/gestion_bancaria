@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1544634090 source:d:\gradoingenieriainformatica\4º\1ºcuatrimestre\pro1\prácticas\practica_9_proyecto\cliente.cpp
+	<iostream>
+	<cstdlib>
+	"string.h"
+	"cliente.h"
+	"util.h"
+
+1544630392 d:\gradoingenieriainformatica\4º\1ºcuatrimestre\pro1\prácticas\practica_9_proyecto\cliente.h
+	"estructura.h"
+
+1530869205 d:\gradoingenieriainformatica\4º\1ºcuatrimestre\pro1\prácticas\practica_9_proyecto\estructura.h
+
+1543256498 d:\gradoingenieriainformatica\4º\1ºcuatrimestre\pro1\prácticas\practica_9_proyecto\util.h
+	<iostream>
+	<cstdlib>
+
+1544630384 source:d:\gradoingenieriainformatica\4º\1ºcuatrimestre\pro1\prácticas\practica_9_proyecto\main.cpp
+	<iostream>
+	<cstdlib>
+	"string.h"
+	"estructura.h"
+	"cliente.h"
+	"util.h"
+
+1543256504 source:d:\gradoingenieriainformatica\4º\1ºcuatrimestre\pro1\prácticas\practica_9_proyecto\util.cpp
+	<iostream>
+	<cstdlib>
+	"util.h"
+
